@@ -1,0 +1,38 @@
+<h3>
+    Create Trip</h3>
+<div [hidden]="submitted">
+    <form (ngSubmit)="onSubmit()">
+        <div class="form-group">
+            <label for="name">Name</label>
+            <input type="text" class="form-control" id="name" required [(ngModel)]="trip.name" name="name" placeholder="Please enter the trip name">
+        </div>
+
+        <div class="form-group">
+            <label for="user">Username</label>
+            <input type="text" class="form-control" id="user" required [(ngModel)]="trip.user" name="user" placeholder="Please enter the username">
+        </div>
+        <div class="form-group">
+            <label for="date">Date</label>
+            <input type="text" class="form-control" id="date" required [(ngModel)]="trip.date" name="date" placeholder="Please enter the date time">
+        </div>
+        <div class="form-group">
+            <label for="place">Place</label>
+            <input type="text" class="form-control" id="place" required [(ngModel)]="trip.place" name="place" placeholder="Please enter the place">
+        </div>
+        <div class="form-group">
+            <label for="notes">Notes</label>
+            <input type="text" class="form-control" id="notes" required [(ngModel)]="trip.notes" name="notes" placeholder="Please enter the notes">
+        </div>
+        <div class="form-group">
+            <label for="image">Image</label>
+            <input type="text" class="form-control" id="image" required [(ngModel)]="trip.image" name="image" placeholder="Please enter the image url">
+        </div>
+
+        <button type="submit" class="btn btn-success">Submit</button>
+    </form>
+</div>
+
+<div [hidden]="!submitted">
+    <h4>You submitted successfully!</h4>
+    <button class="btn btn-success" (click)="newTrip()">Add</button>
+</div>

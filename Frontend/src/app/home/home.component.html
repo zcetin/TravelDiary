@@ -1,0 +1,28 @@
+<h1>Trips</h1>
+
+
+
+<!--
+<div *ngIf="trips">
+    <div *ngFor="let trip of trips">
+        <div class="card" style="width: 18rem;">
+            <img src="{{trip.image}}" class="card-img-top" alt="name">
+            <div class="card-body">
+                <h5 class="card-title">{{trip.name}}</h5>
+                <p class="card-text">{{trip.notes}}</p>
+                <a href="http://localhost:4200/details/{{trip.id}}" class="btn btn-primary">Details</a>
+            </div>
+        </div>
+    </div>
+</div>
+-->
+<div class="row" *ngIf="trips">
+    <div class="card col-3" style="width: 18rem; margin-right:4px; margin-bottom:4px;" *ngFor="let trip of trips">
+        <img src="{{trip.image}}" class="card-img-top" alt="{{trip.name}}">
+        <div class="card-body">
+            <h5 class="card-title">{{trip.name}}</h5>
+            <p class="card-text">{{trip.notes}}</p>
+            <a href="http://localhost:4200/details/" class="btn btn-primary" [routerLink]="['/details/'+trip.id] ">Details</a>
+        </div>
+    </div>
+</div>
