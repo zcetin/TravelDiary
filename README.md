@@ -8,10 +8,10 @@ Backend: Django Rest Framework (API)
 Database: MySQL
 
 ## How to run?
-For Django :
-python manage.py runserver
-For Angular :
-ng serve
+
+ For Django :
+  python manage.py runserver
+ For Angular :
 
 ## Screenshots
 
