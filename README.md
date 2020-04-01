@@ -31,3 +31,8 @@ Actually this project maden for Kartaca Internship Program.
 
 ![Screenshot_2020-04-01 Myapp(4)](https://user-images.githubusercontent.com/46650409/78180638-bb3ed000-746b-11ea-9f3f-a1793dcbc9cd.png)
 
+## References
+* [Pretty Printed](https://www.youtube.com/playlist?list=PLXmMXHVSvS-DQfOsQdXkzEZyD0Vei7PKf) 
+* [Django + Angular = A powerful web application](https://medium.com/swlh/django-angular-4-a-powerful-web-application-60b6fb39ef34)
+* [Django REST framework](https://www.django-rest-framework.org/#installation)
+* [Angular Material](https://v8.material.angular.io/components/tree/overview)
