@@ -15,7 +15,7 @@ Actually this project maden for Kartaca Internship Program.
  ng serve
 
 ## Screenshots
-![Screenshot_2020-04-01 Myapp](https://user-images.githubusercontent.com/46650409/78180580-a95d2d00-746b-11ea-9bac-dce48517382f.png)
+![Screenshot_2020-04-01 Myapp(6)](https://user-images.githubusercontent.com/46650409/78182290-8d0ebf80-746e-11ea-9434-cc0e76ad83ad.png)
 
 ![Screenshot_2020-04-01 Myapp(5)](https://user-images.githubusercontent.com/46650409/78180637-baa63980-746b-11ea-96e2-28bd66eacdd4.png)
 
@@ -27,9 +27,8 @@ Actually this project maden for Kartaca Internship Program.
 ![Screenshot_2020-04-01 Myapp(3)](https://user-images.githubusercontent.com/46650409/78180635-ba0da300-746b-11ea-80ee-7e94d2c6e8f1.png)
 
 
+![Screenshot_2020-04-01 Myapp(7)](https://user-images.githubusercontent.com/46650409/78182469-ed056600-746e-11ea-9d4f-78c3543c1fcf.png)
 
-
-![Screenshot_2020-04-01 Myapp(4)](https://user-images.githubusercontent.com/46650409/78180638-bb3ed000-746b-11ea-9f3f-a1793dcbc9cd.png)
 
 ## References
 * [Pretty Printed](https://www.youtube.com/playlist?list=PLXmMXHVSvS-DQfOsQdXkzEZyD0Vei7PKf) 
