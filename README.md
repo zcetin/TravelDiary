@@ -1,6 +1,6 @@
 # 🌎TravelDiary
 A simple project like travel blog you can add your notes and informations about your trips.
-Actually this project maden for Kartaca Internship Program.
+Actually this project made for Kartaca Internship Program.
 
 ## Technologies
 1. Frontend: Angular8 
