@@ -35,3 +35,6 @@ Actually this project maden for Kartaca Internship Program.
 * [Django + Angular = A powerful web application](https://medium.com/swlh/django-angular-4-a-powerful-web-application-60b6fb39ef34)
 * [Django REST framework](https://www.django-rest-framework.org/#installation)
 * [Angular Material](https://v8.material.angular.io/components/tree/overview)
+
+## Contact
+You can find me on [LinkedIn](https://www.linkedin.com/in/zcetin/) and feel free to reach me 
