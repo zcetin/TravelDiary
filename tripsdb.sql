@@ -251,7 +251,7 @@ CREATE TABLE `trips_trip`  (
 -- ----------------------------
 -- Records of trips_trip
 -- ----------------------------
-INSERT INTO `trips_trip` VALUES (1, 'SanFrancisco', 'somebody', '12 May', 'San Francisco', 'I\'ve been waiting in San Francisco\r\nTo know you still care ..', 'https://www.bizevdeyokuz.com/wp-content/uploads/san-francisco-pexel-15.jpg');
+INSERT INTO `trips_trip` VALUES (1, 'San Francisco', 'somebody', '12 May', 'San Francisco', 'I\'ve been waiting in San Francisco\r\nTo know you still care ..', 'https://www.bizevdeyokuz.com/wp-content/uploads/san-francisco-pexel-15.jpg');
 INSERT INTO `trips_trip` VALUES (2, 'Havana', 'zeyno', '21 May', 'Havana', 'Havana, ooh na-na\r\nHalf of my heart is in Havana, ooh-na-na', 'https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQXF1k4wkF27yeOKSUITk91_xz4IrUHodIhjnRtxqCfzU_1uOOX&usqp=CAU');
 INSERT INTO `trips_trip` VALUES (3, 'Prag', 'zs', '2 February', 'Prag', 'One of the most beautiful cities in the world.', 'https://t0.gstatic.com/images?q=tbn:ANd9GcT8Bww08O9J4RC00-n13pwxtONbQDpafLEVZA88DfY-WlDQ9Ddi8QtMY2F7FGe7J15Yum32L9FwlXE7Qw');
 INSERT INTO `trips_trip` VALUES (4, 'Istanbul', 'somebody', '5 April', 'Istanbul', 'So take me back to Constantinople\r\nNo, you can\'t go back', 'https://img-s1.onedio.com/id-595cc0d90c32a4811596fc43/rev-1/w-1240/h-890/f-jpg/s-e8636e86f024885e60db0a641f6743ea90c730dd.jpg');
